@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(143, 203, 203);
+}
+.Btnlink{
+    text-decoration: none ;
+    /* وقتی از تگ اِی استفاده میکنی یه خط زیرش میندازه یا این استایل میتونی اون خز رو برداری. */
+    color: rgb(186, 72, 169);
+	border: 3px solid rgb(175, 120, 226);
+	border-radius: 5px;
+	padding: 5px;
+	background-color: rgb(253, 183, 255);
+	width: 200px;
+	display: inline-block;
+	text-align: center;
+	box-shadow: 4px 5px rgb(99, 24, 112);
+}
+.BtnLink:hover{
+	background-color:rgb(178, 122, 212) ;
+	color: black;
+	font-size: 20px;
+}
+.diva{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.h2sh{
+ text-shadow:5px 4px rgb(151, 150, 150);
+ margin-left: 20px;
+}
+
